@@ -54,7 +54,7 @@ Thumbs.db
 # =========================
 # Large data files (optional)
 # =========================
-*.csv
+
 *.npy
 *.pt
 *.pth
