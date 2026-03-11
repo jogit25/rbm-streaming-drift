@@ -1,5 +1,5 @@
 import numpy as np
-
+#gradual drift
 class SEAStream:
 
     def __init__(self):
